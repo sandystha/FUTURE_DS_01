@@ -48,7 +48,9 @@ The dataset includes **transactions from 2009–2011** with the following column
 - **KPIs:** Total Revenue, Total Orders, Total Quantity Sold, Total Customers  
 - **Line Chart:** Monthly revenue trend  
 - **Bar Chart:** Revenue by Country  
-- **Slicer:** Year  
+- **Slicer:** Year
+
+- ![Page 1 - Sales Overview](Salespage.png)
 
 **Insights:** Revenue grew sharply from 2009 to 2010, then slightly declined in 2011. Steady month-over-month growth indicates consistent demand.
 
@@ -57,8 +59,10 @@ The dataset includes **transactions from 2009–2011** with the following column
 ### 2️⃣ Best-Selling Products
 - **Top 10 Products by Revenue**  
 - **Top 10 Products by Quantity Sold**  
-- **Product Details Table** (Description, StockCode, Revenue, Quantity)  
-- **Slicer:** Year  
+- **Product Details Table** (Description, StockCode, Revenue, Quantity)
+- **Slicer:** Year
+
+![Page 2 - Product Analysis](Productanalysis.png)
 
 **Insights:** High-revenue products are decorative & gift-oriented; high-volume products are craft & utility items. Two distinct product strategies exist: premium/high-margin vs. volume-driven.
 
@@ -82,7 +86,7 @@ The dataset includes **transactions from 2009–2011** with the following column
 - Expand marketing & logistics in underperforming regions  
 - Separate postage from revenue to measure true product profitability  
 
----
+![Page 3 - Insights & Recommendations](Insightspages.png)
 
 
 
